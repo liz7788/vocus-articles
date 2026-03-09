@@ -1,0 +1,26 @@
+# 方格子文章 URL 清單
+# 格式：標題 | URL
+# 新增文章直接在下面加一行，然後跑 python generate_site.py 就會自動更新
+
+# === batch_01 行動電源（13 篇）===
+【2026氮化鎵充電器推薦】7款GaN快充充電器評比｜$380起，一顆取代所有豆腐頭 | https://vocus.cc/article/69abd15ffd89780001d12cf7
+【2026台灣製行動電源推薦】5款MIT行充評比｜$891起，台灣品牌保固最安心 | https://vocus.cc/article/69abdb0dfd89780001d3f115
+【2026學生行動電源推薦】7款平價行充評比｜$299起，小資族的第一顆行動電源這樣選 | https://vocus.cc/article/69abdfb0fd89780001d516f2
+10000mAh 和 20000mAh 差多少？到底該選哪個？｜行動電源容量挑選指南 | https://vocus.cc/article/69abe49afd89780001d64fca
+【2026口袋行動電源推薦】6款直插式行充評比｜$299起，出門不用帶線的隨身充電 | https://vocus.cc/article/69abeb0ffd89780001d8246a
+【2026可上飛機行動電源推薦】6款出國行充評比｜Wh有標，安檢不刁難 | https://vocus.cc/article/69abf2a1fd89780001da36aa
+行動電源怎麼選？mAh、W、Wh 一次講清楚｜2026 新手必看 | https://vocus.cc/article/69abf987fd89780001dbcb67
+行動電源膨脹了還能用嗎？壽命、安全、回收一次講｜2026 必看 | https://vocus.cc/article/69abfb72fd89780001dc33ca
+【2026無線充電板推薦】7款三合一無線充電座評比｜$459起，桌上放著就能充 | https://vocus.cc/article/69abfef9fd89780001dcef40
+【2026固態行動電源推薦】7款防爆行充評比｜全固態vs半固態，$990起不自燃才是重點 | https://vocus.cc/article/69ac12ecfd89780001e189db
+【2026露營行動電源推薦】5款戶外儲能電源評比｜$5,780起，到營地不怕沒電 | https://vocus.cc/article/69ad5384fd89780001318097
+【2026磁吸行動電源推薦】6款MagSafe行充評比｜從$664到Qi2快充，iPhone用戶這樣選 | https://vocus.cc/article/69ae2a11fd897800016281a9
+【2026行動電源推薦】不分場景，7款CP值最高的行充懶人包｜$299起，通勤出國露營全都有 | https://vocus.cc/article/69ae2dcffd89780001638995
+
+# === 其他已發布（4 篇）===
+【2026嬰兒監視器推薦】新手爸媽必看 6 款嬰兒攝影機｜CuboAi/小米/TP-Link 評測 | https://vocus.cc/article/692d62ccfd89780001b4b88e
+【2026小米攝影機推薦】6款高CP值智慧監控評比 | https://vocus.cc/article/692908c8fd897800018ba26f
+【2026日本網卡推薦】5款eSIM/實體卡評比，$119起一下飛機就有網路 | https://vocus.cc/article/692e4f6afd89780001ebe783
+【2026戶外儲能電源推薦】5款露營停電兩用評比｜移動電源怎麼選 | https://vocus.cc/article/69a25a2dfd89780001f99c19
+
+# === 待補充（你有其他已發布文章，把標題和 URL 加在這裡）===
