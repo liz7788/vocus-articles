@@ -3,27 +3,27 @@
 # 新增文章直接在對應主題區塊下面加一行，然後跑 python generate_site.py 就會自動更新
 
 # === batch_01 行動電源・充電器（21 篇）===
-【2026氮化鎵充電器推薦】7款GaN快充評比｜瓦數挑選一次懂 | https://vocus.cc/article/69abd15ffd89780001d12cf7
-【2026台灣製行動電源推薦】5款MIT行充評比｜BSMI認證 | https://vocus.cc/article/69abdb0dfd89780001d3f115
+【氮化鎵充電器推薦2026】7款GaN快充評比｜瓦數怎麼挑 | https://vocus.cc/article/69abd15ffd89780001d12cf7
+【台灣製行動電源推薦2026】5款MIT行充評比｜BSMI認證 | https://vocus.cc/article/69abdb0dfd89780001d3f115
 【學生行動電源推薦2026】7款平價行充評比｜小資族首選 | https://vocus.cc/article/69abdfb0fd89780001d516f2
 10000mAh 和 20000mAh 差多少？到底該選哪個？｜行動電源容量挑選指南 | https://vocus.cc/article/69abe49afd89780001d64fca
 【口袋行動電源推薦2026】6款直插式行充評比｜免帶線 | https://vocus.cc/article/69abeb0ffd89780001d8246a
 【可上飛機行動電源推薦2026】6款出國行充評比｜Wh有標，安檢不刁難 | https://vocus.cc/article/69abf2a1fd89780001da36aa
 行動電源怎麼選？mAh、W、Wh 一次講清楚｜2026 新手必看 | https://vocus.cc/article/69abf987fd89780001dbcb67
 行動電源膨脹了還能用嗎？壽命、安全、回收一次講｜2026 必看 | https://vocus.cc/article/69abfb72fd89780001dc33ca
-【2026無線充電板推薦】7款三合一充電座評比｜放著就能充 | https://vocus.cc/article/69abfef9fd89780001dcef40
+【無線充電板推薦2026】7款三合一充電座評比｜Qi2放著就能充 | https://vocus.cc/article/69abfef9fd89780001dcef40
 【固態行動電源推薦2026】7款防爆行充評比｜全固態vs半固態 | https://vocus.cc/article/69ac12ecfd89780001e189db
-【2026露營行動電源推薦】5款戶外儲能電源評比｜到營地不怕沒電 | https://vocus.cc/article/69ad5384fd89780001318097
-【2026磁吸行動電源推薦】6款MagSafe評比｜Qi2快充 | https://vocus.cc/article/69ae2a11fd897800016281a9
-【2026行動電源推薦】7款高CP值行充評比｜通勤出國露營懶人包 | https://vocus.cc/article/69ae2dcffd89780001638995
+【露營行動電源推薦2026】5款戶外儲能電源評比｜到營地不怕沒電 | https://vocus.cc/article/69ad5384fd89780001318097
+【磁吸行動電源推薦2026】6款MagSafe行充評比｜Qi2快充 | https://vocus.cc/article/69ae2a11fd897800016281a9
+【行動電源推薦2026】7款高CP值行充評比｜通勤出國露營懶人包 | https://vocus.cc/article/69ae2dcffd89780001638995
 行動電源 BSMI 認證怎麼查？3步驟教你辨別合格行充｜2026 | https://vocus.cc/article/69b24453fd89780001b6f112
 【戶外儲能電源推薦2026】5 款露營停電兩用評比｜移動電源怎麼選 | https://vocus.cc/article/69a25a2dfd89780001f99c19
-【2026Qi2磁吸行動電源推薦】7款無線行充評比｜吸上去就充 | https://vocus.cc/article/69b902b7fd8978000101eff5
-【2026學生行動電源推薦】7款平價行充評比｜$299起，小資族的第一顆行動電源這樣選 | https://vocus.cc/article/69a7aee7fd897800014ecf1a
-【2026磁吸行動電源推薦】6款MagSafe行充評比｜從$664到Qi2快充，iPhone用戶這樣選 | https://vocus.cc/article/69a7a86dfd897800014cc6b0
+【Qi2磁吸行動電源推薦2026】7款無線行充評比｜吸上去就充 | https://vocus.cc/article/69b902b7fd8978000101eff5
+【學生行動電源推薦2026】7款平價行充評比｜$299起小資族首選 | https://vocus.cc/article/69a7aee7fd897800014ecf1a
+【磁吸行動電源推薦2026】6款MagSafe評比，iPhone用戶這樣選 | https://vocus.cc/article/69a7a86dfd897800014cc6b0
 【2026固態行動電源推薦】7款防爆行充評比｜全固態vs半固態，$990起不自燃才是重點 | https://vocus.cc/article/69a7a2fdfd897800014af0cd
 【2026口袋行動電源推薦】6款直插式行充評比｜$299起，出門不用帶線的隨身充電 | https://vocus.cc/article/69a6d03bfd89780001207e97
-【2026MagSafe行動電源推薦】7款磁吸行充評比｜怎麼挑 | https://vocus.cc/article/69a247e2fd89780001f3309d
+【2026 MagSafe 磁吸行動電源推薦】7 款 Qi2 行動充評比｜從輕薄到大容量怎麼挑 | https://vocus.cc/article/69a247e2fd89780001f3309d
 
 # === batch_02 香氛擴香（16 篇）===
 【2026車用香氛推薦】8款車用芳香劑評比｜從百元香片到精品全攻略 | https://vocus.cc/article/69b0d94dfd8978000120f1dc
@@ -59,14 +59,14 @@
 
 # === batch_05 旅遊網卡（2 篇）===
 【2026日本網卡推薦】PTT/Dcard熱議！5款eSIM/實體卡評比，$119起一下飛機就有網路 | https://vocus.cc/article/692e4f6afd89780001ebe783
-【2026印尼峇里島網卡推薦】4家方案評比｜吃到飽怎麼選 | https://vocus.cc/article/69a271eafd89780001011eef
+【2026 印尼峇里島網卡推薦】4 家不同方案評比｜印尼上網卡吃到飽怎麼選不踩雷 | https://vocus.cc/article/69a271eafd89780001011eef
 
 # === batch_06 情人節禮物（5 篇）===
 【2026 情人節禮物女友實用推薦】7 款送女友每天都會用｜PTT Dcard 好評懶人包 | https://vocus.cc/article/69a5471bfd89780001bca748
 【情人節禮物女友不踩雷2026】6 款安全牌推薦｜PTT Dcard 都說送這個不會錯 | https://vocus.cc/article/69a531c2fd89780001b64a07
-【2026情人節禮物女友1000元】6款質感好物評比｜送禮不踩雷 | https://vocus.cc/article/69a51d47fd89780001b0713a
-【2026情人節禮物1000元以下】7款平價好物評比｜小資不踩雷 | https://vocus.cc/article/69a30b3dfd8978000126f468
-【2026情人節巧克力禮盒推薦】7款不同價位評比｜不踩雷 | https://vocus.cc/article/69a307b8fd897800012607f7
+【2026 情人節禮物女友 1000 元】6 款質感好物推薦｜讓她覺得你很懂 | https://vocus.cc/article/69a51d47fd89780001b0713a
+【2026 情人節禮物 1000 元以下】7 款平價高 CP 值推薦｜小資情人節送禮不踩雷 | https://vocus.cc/article/69a30b3dfd8978000126f468
+【2026 情人節巧克力禮盒推薦】7 款不同價位評比｜情人節送巧克力不踩雷指南 | https://vocus.cc/article/69a307b8fd897800012607f7
 
 # === batch_07 母親節禮物（5 篇）===
 不知道送媽媽什麼？母親節送禮5大方向，照著選就對了｜2026 | https://vocus.cc/article/69ba44fafd89780001512134
@@ -76,7 +76,7 @@
 母親節禮物怎麼挑？按預算和媽媽類型選不踩雷｜2026 送禮指南 | https://vocus.cc/article/69bb9249fd89780001ad35e6
 
 # === 其他（1 篇）===
-【2026搞笑交換禮物推薦】9款地獄禮物評比｜廢到笑但實用 | https://vocus.cc/article/692add13fd8978000107e7ea
+【2026搞笑交換禮物推薦】PTT/Dcard熱議！地獄禮物怎麼選？9款廢到笑但超實用的交換禮物完整評測 | https://vocus.cc/article/692add13fd8978000107e7ea
 
 # === 新增 ===
 快充會傷電池嗎？65W 快充和磁吸充電的真相｜2026 | https://vocus.cc/article/69be11c3fd89780001b6bebe
@@ -106,4 +106,4 @@
 除濕機怎麼選？坪數算法、壓縮機A式B式、能效退稅一次搞懂｜2026 | https://vocus.cc/article/69bf95a1fd8978000128ed98
 
 # === 新增 ===
-【2026除濕機推薦】9款不分坪數除濕機評比｜選購到推薦一次搞懂 | https://vocus.cc/article/69c099b4fd897800016867e7
+【除濕機推薦2026】9款不分坪數除濕機評比｜選購到推薦一次搞懂 | https://vocus.cc/article/69c099b4fd897800016867e7
