@@ -47,6 +47,12 @@ def categorize(articles):
             cat = "戶外電源"
         elif any(k in title for k in ["洗衣機"]):
             cat = "家電"
+        elif any(k in title for k in ["電烤盤", "氣炸鍋", "電火鍋", "烤箱"]):
+            cat = "廚房家電"
+        elif any(k in title for k in ["除濕", "空氣清淨", "空清"]):
+            cat = "除濕與空氣品質"
+        elif any(k in title for k in ["兒童", "小孩", "磁力片", "小學生", "親子"]):
+            cat = "兒童親子"
         else:
             cat = "其他好物"
         if cat not in categories:
